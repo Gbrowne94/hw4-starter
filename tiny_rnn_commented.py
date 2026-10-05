@@ -3,6 +3,7 @@
 import tensorflow as tf
 import numpy as np
 import random, os, sys
+# make a list of every different letter used in the text
 
 # ---------- 1) Tiny corpus (swap this block to change tasks) ----------
 tiny_lines = [
